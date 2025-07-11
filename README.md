@@ -21,7 +21,7 @@ A console-based game where:
 - Hints are provided (too high / too low).
 - The total number of attempts is displayed.
 
-📂 [View Code](./Task1_NumberGuessingGame.cpp)
+📂 [View Code](./number_guessing_game.cpp)
 
 ---
 
@@ -31,7 +31,7 @@ A simple calculator that:
 - Performs operations like addition, subtraction, multiplication, and division.
 - Displays the result with appropriate error handling for division by zero.
 
-📂 [View Code](./Task2_SimpleCalculator.cpp)
+📂 [View Code](./calculator.cpp)
 
 ---
 
@@ -42,6 +42,6 @@ A two-player Tic-Tac-Toe game with the following features:
 - Checks for win, draw, and invalid moves.
 - Option to play again after a game ends.
 
-📂 [View Code](./Task3_TicTacToe.cpp)
+📂 [View Code](./tic_tac_toe.cpp)
 
 ---
